@@ -1,2 +1,2 @@
 #!/bin/bash
-echco $PATH |tr ":" "\n" | wc -l 
+echco $PATH |tr ":" "\n" |wc -l 
